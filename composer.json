@@ -1,0 +1,14 @@
+{
+    "name": "lifhold-sample/users-api",
+    "authors": [
+        {
+            "name": "Lukasz Grajewski",
+            "email": "grajewski.lukasz@wp.pl"
+        }
+    ],
+    "require": {
+        "illuminate/http": "~7.0 || ~8.0",
+        "illuminate/support": "~7.0 || ~8.0",
+        "illuminate/routing": "~7.0 || ~8.0"
+    }
+}
